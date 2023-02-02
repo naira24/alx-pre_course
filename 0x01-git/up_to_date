@@ -1,1 +1,1 @@
- cat README.md
+echo 'git pull' > up_to_data
